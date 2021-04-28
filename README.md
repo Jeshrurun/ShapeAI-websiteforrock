@@ -3,6 +3,10 @@ Website Using HTML And CSS
 
 Hey! I Created This Website During My 7-Day BootCamp With Shape-AI By Utilizing The Lessons Taught By My Instructor Shaurya Sinha.
 
+I Got To Learn 
+* HTML
+* CSS
+
 This Was Submmited By:
 
 Name: Jeshurun Carlos
